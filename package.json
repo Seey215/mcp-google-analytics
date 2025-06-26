@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server-google-analytics",
+  "name": "@toolsdk.ai/mcp-server-google-analytics",
   "version": "0.1.0",
   "description": "A MCP Server for Google Analytics Data API",
   "private": true,
